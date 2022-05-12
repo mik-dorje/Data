@@ -6,7 +6,8 @@
       "name": "Salary sheet",
       "capacity": 10,
       "status": true,
-      "image":"https://images.unsplash.com/photo-1485206412256-701ccc5b93ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&w=1000&q=80"
+      "image":"https://avatars.dicebear.com/api/micah/1.svg"
+
     },
     {
       "id":2,
@@ -14,7 +15,7 @@
       "name": "Employee List",
       "capacity": 15,
       "status": false,
-      "image": "https://pbs.twimg.com/profile_images/1470766467721408516/RfHc-_jz_400x400.jpg"
+      "image": "https://avatars.dicebear.com/api/micah/2.svg"
     },
     {
       "id":3,
@@ -22,7 +23,8 @@
       "name": "Expenditure",
       "capacity": 5,
       "status": true,
-      "image": "https://pbs.twimg.com/profile_images/1485594231574048770/_oGBGFoI_400x400.jpg"
-    }
+      "image": "https://avatars.dicebear.com/api/micah/3.svg"
+    },
+   
   ]
 }
